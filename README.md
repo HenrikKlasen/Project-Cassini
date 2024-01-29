@@ -7,5 +7,5 @@ The tool will include a drag'n'drop user interface for building a website (to ma
 
 ## Project execution
 
-The project will be written mainly in C++ (and auxillary libraries for GUI.)
+The project will be written mainly in C++ (and auxilliary libraries for GUI.)
 Details on execution command and executables will follow once a running release can be done (or the project is in a non-"Hello World" state, as this is my first C++-Experience)
